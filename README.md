@@ -12,7 +12,7 @@ This project uses the Pokemon API (https://pokeapi.co/) to give a graphical over
 	
 ## Technologies
 Project is created with:
-* react version: 17.0.2
+* react 17.0.2
 * next 11.1.2
 * https://pokeapi.co/ as data-source
 
