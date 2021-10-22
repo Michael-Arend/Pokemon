@@ -12,7 +12,7 @@ class Pokemon {
   types: Types[];
   weight: number;
   moves: Move[];
-  stats : Stats[];
+  stats: Stats[];
   id: number;
 
   constructor(
@@ -34,11 +34,6 @@ class Pokemon {
     this.stats = stats;
     this.moves = moves;
   }
-
-
-
-
-
 }
 
 export default Pokemon;

@@ -5,8 +5,6 @@ const pageCount:number = Math.ceil(pokemonCount/amountPerPage)
 
 const pageChangedHandler = (event:React.MouseEvent, page:number) =>  pageChanged(page);
 
-
-
     return(
         <div className="pagination-wrapper">
             <button  disabled={currentPage < 2} onClick={(e)=>  pageChangedHandler(e,1)}>1</button>
