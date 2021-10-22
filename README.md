@@ -28,20 +28,19 @@ The index.tsx holds the List of Pokemons with contains of a custom component nam
 To run this project, install it locally using npm:
 
 ```
-$ cd ../Pokemon
 $ npm install
 $ npm run dev
 ```
 
 ## Todo
-- mobile responsiveness is not yet added regarding time limitation of 4h
-
 ### Possible Updates
 - advanced filtering options (moves, species etc.)
 - order by function (weight, stats)
 - add additional stats like abilities via https://pokeapi.co/
 - detailed page for every Pokemon mit query parameters
 
+### Possible Improvement
+- mobile responsiveness is not yet added regarding time limitation of 4h
 
 
 
